@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20Wijeong%20Nam%20%20🙌&fontSize=50&fontAlign=63)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Wijeong%20Nam%20%20🙌&fontSize=50&fontAlign=63)
 
 <b>Hi there!</b>👋 <br> I'm studying to become a <b>front-end developer</b> 💚<br><br> • • •
 
