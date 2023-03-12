@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Wijeong%20Nam%20%20🙌&fontSize=50&fontAlign=63)
 
-<b>Hi there!</b>👋 <br> I'm studying to become a <b>front-end developer</b> 💚<br><br> • • •
+<b>안녕하세요!</b>👋 <br> 주니어 프론트엔드 개발자 남위정입니다.</b> 💚<br><br> • • •
 
 
 <h3 align-="center">✨ My Stack </h3>
